@@ -1,0 +1,11 @@
+c:\users\mst\source\repos\BESD\BESD.API\bin\Debug\netcoreapp2.0\BESD.API.deps.json
+c:\users\mst\source\repos\BESD\BESD.API\bin\Debug\netcoreapp2.0\BESD.API.runtimeconfig.json
+c:\users\mst\source\repos\BESD\BESD.API\bin\Debug\netcoreapp2.0\BESD.API.runtimeconfig.dev.json
+c:\users\mst\source\repos\BESD\BESD.API\bin\Debug\netcoreapp2.0\BESD.API.dll
+c:\users\mst\source\repos\BESD\BESD.API\bin\Debug\netcoreapp2.0\BESD.API.pdb
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.csprojResolveAssemblyReference.cache
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.csproj.CoreCompileInputs.cache
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.AssemblyInfoInputs.cache
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.AssemblyInfo.cs
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.dll
+c:\users\mst\source\repos\BESD\BESD.API\obj\Debug\netcoreapp2.0\BESD.API.pdb

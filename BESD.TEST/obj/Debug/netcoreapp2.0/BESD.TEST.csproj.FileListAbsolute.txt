@@ -1,0 +1,14 @@
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\BESD.TEST.deps.json
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\BESD.TEST.runtimeconfig.json
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\BESD.TEST.runtimeconfig.dev.json
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\BESD.TEST.dll
+c:\users\mst\source\repos\BESD\BESD.TEST\bin\Debug\netcoreapp2.0\BESD.TEST.pdb
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.csprojResolveAssemblyReference.cache
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.csproj.CoreCompileInputs.cache
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.AssemblyInfoInputs.cache
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.AssemblyInfo.cs
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.dll
+c:\users\mst\source\repos\BESD\BESD.TEST\obj\Debug\netcoreapp2.0\BESD.TEST.pdb
